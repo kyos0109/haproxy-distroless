@@ -1,4 +1,4 @@
-FROM haproxy:1.8.13
+FROM haproxy:1.8.14
 
 # https://en.wikipedia.org/wiki/List_of_tz_database_time_zones
 ARG TIME_ZONE
